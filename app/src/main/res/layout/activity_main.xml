@@ -43,6 +43,8 @@
             android:id="@+id/Entry"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:inputType="text"
+            android:maxLines="1"
             android:layout_weight="2"
             android:hint="Please Enter Here"
             android:minHeight="48dp" />
